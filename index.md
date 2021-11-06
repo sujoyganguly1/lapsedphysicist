@@ -1,7 +1,8 @@
 ## Welcome to the Lapsed Physicist in ML Socials Page
 
 
-### Nest Social NeurIPS 2021
+### Nest Social 
+[NeurIPS 2021][https://nips.cc/Conferences/2021/Schedule?showEvent=22389]
 
 ### Past Socials
 1. ICLR 2020
