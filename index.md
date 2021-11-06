@@ -1,4 +1,5 @@
 ## Welcome to the Lapsed Physicist in ML Socials Page
+"Lapsed" (aka. Former) Physicists are plentiful in the machine learning community these sociaks are an informal opportunity to connect with members of the community.
 
 
 ### Nest Social 
